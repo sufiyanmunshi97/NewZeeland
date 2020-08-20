@@ -21,7 +21,7 @@
 
     <script>
 	
-        var map = L.map('map').setView([-41.2858, 174.7868], 13);
+        var map = L.map('map').setView([39.717263, -104.859242], 13);
         mapLink = 
             '<a href="http://openstreetmap.org">OpenStreetMap</a>';
         L.tileLayer(
